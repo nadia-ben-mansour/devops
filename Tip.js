@@ -11,4 +11,3 @@ Tip.prototype.CalculateTip = function(p1) {
 }
 module.exports.Tip = Tip;
 
-//hello hello
